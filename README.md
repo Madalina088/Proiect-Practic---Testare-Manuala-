@@ -158,7 +158,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 ### 3.4 Daily test summary reports
 
- - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) *vom adauga link catre screenshot cu cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test case-urile.
+ - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) *vom adauga link catre screenshot cu cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github ![Daily report!](https://github.com/Madalina088/Proiect-Practic---Testare-Manuala-/blob/main/Test.PNG)"). Raportul va fi generat din Jira pe masura ce executam test case-urile.
 
 ### 3.5 Traceability matrix
 
