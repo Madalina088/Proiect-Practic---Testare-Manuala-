@@ -150,7 +150,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
  - we will use test environment
  - testing using new accounts and older account is necessary
- - The following test conditions could be found here: *vom adauga link catre document cu test conditions create si incarcate pe github. Test conditions vor fi exportate din Jira.
+ - The following test conditions could be found here: [test conditions](https://github.com/Madalina088/Proiect-Practic---Testare-Manuala-/blob/main/Bug_91891.PNG). Test conditions vor fi exportate din Jira.
 
 ### 3.3 Test cases
 
